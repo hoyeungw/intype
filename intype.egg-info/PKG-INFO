@@ -2,10 +2,18 @@ Metadata-Version: 1.2
 Name: intype
 Version: 0.0.1
 Summary: dynamic type infer
-Home-page: UNKNOWN
+Home-page: https://github.com/hoyeungw/intype
 Author: Hoyeung Wong
 Author-email: hoyeungw@outlook.com
 License: UNKNOWN
-Description: UNKNOWN
+Description: ## intype
+        ##### dynamic infer type
+        
+        ### Usage
+        ```python
+        from intype import has_literal
+        word = 'chocolate'
+        print(has_literal(word))
+        ```
 Platform: UNKNOWN
 Requires-Python: >=3.8,<4.0
