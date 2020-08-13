@@ -1,0 +1,9 @@
+README.md
+setup.py
+intype/__init__.py
+intype/literal.py
+intype/numeric.py
+intype.egg-info/PKG-INFO
+intype.egg-info/SOURCES.txt
+intype.egg-info/dependency_links.txt
+intype.egg-info/top_level.txt
