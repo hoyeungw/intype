@@ -1,4 +1,4 @@
-from intype.literal import is_literal
+from intype import is_literal
 
 candidates = [
     '123',

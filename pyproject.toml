@@ -7,7 +7,8 @@ license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/hoyeungw/intype"
 repository = "https://github.com/hoyeungw/intype"
-keywords = ['type', 'dynamic', 'regex']
+keywords = ["type", "dynamic", "regex"]
+
 [tool.poetry.dependencies]
 python = "^3.8"
 
