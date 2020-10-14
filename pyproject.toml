@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "intype"
-version = "0.0.2"
+version = "0.0.3"
 description = "dynamic type infer"
 authors = ["Hoyeung Wong <hoyeungw@outlook.com>"]
 license = "MIT"

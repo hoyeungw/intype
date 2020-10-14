@@ -1,7 +1,7 @@
 from re import compile as re_compile, match as re_match
 
 
-def is_number_try_except(s):
+def is_number_parse_float(s):
     """ Returns True is string is a number. """
     try:
         float(s)
